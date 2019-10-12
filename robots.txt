@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rinangeicu.jacobi314.com/sitemap.xml
